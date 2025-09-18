@@ -25,9 +25,8 @@ It simulates a real-world solution for secure data sharing in industries such as
 
 ### 1️⃣ Environment Setup  
 - Installed Flask and PyCryptodome.  
-- Created project folders:  
-  - `templates/`  
-  - `uploads/`  
+- Created project folder:  
+  - `templates/` 
 - Generated a secure AES key and stored it as an **environment variable**.  
 
 ### 2️⃣ Application Development  
